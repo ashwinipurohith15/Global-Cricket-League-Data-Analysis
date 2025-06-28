@@ -4,8 +4,8 @@
 The Global Cricket League, or GCL, is a T20 cricket league, which started in 2008 and is conducted annually.GCI provides comprehensive data insights to sports magazines, newspapers, and broadcasters worldwide.The goal is to create an infographic for a sports magazine, leveraging visual representations directly from Tableau. Additionally, the magazine editorial team intends to use key statistics with various filters and customizations for interactivity. 
 
 ## Dataset Used
-<a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/matches.xlsx"<View Dataset 1></a>
-<a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/deliveries.xlsx"<View Dataset 2></a>
+<a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/matches.xlsx">View Dataset 1</a>
+<a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/deliveries.xlsx">View Dataset 2</a>
 
 ## Questions
 . Match Statistics
@@ -25,8 +25,8 @@ Top Wicket-takers (Bowlers with the most wickets in a season)
 Players hitting the most fours and sixes (per season and overall)
 
 Dashboard :
-<a href= ""<view Dashboard 1></a>
-<a href= ""<view Dashboard 2></a>
+<a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/Cricket%20Match%20Stats.twbx">view Dashboard 1</a>
+<a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/Player%20Statistics.twbx">view Dashboard 2</a>
 
 ## Process
 1.Data Cleaning:

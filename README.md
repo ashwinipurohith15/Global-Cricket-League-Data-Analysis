@@ -5,43 +5,45 @@ The Global Cricket League, or GCL, is a T20 cricket league, which started in 200
 
 ## Dataset Used
 <a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/matches.xlsx">View Dataset 1</a>
+
 <a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/deliveries.xlsx">View Dataset 2</a>
 
 ## Questions
-. Match Statistics
+- Match Statistics
 
-Toss outcome vs Match outcome (for each Stadium/Venue)
+1. Toss outcome vs Match outcome (for each Stadium/Venue)
 
-Most significant victories (by runs and by wicket)
+2. Most significant victories (by runs and by wicket)
 
-Highest team totals (across all seasons)
+3. Highest team totals (across all seasons)
 
-. Player Statistics
+- Player Statistics
 
-Leading Run-scorers (Batsmen with the most runs in a season)
+1. Leading Run-scorers (Batsmen with the most runs in a season)
 
-Top Wicket-takers (Bowlers with the most wickets in a season)
+2. Top Wicket-takers (Bowlers with the most wickets in a season)
 
-Players hitting the most fours and sixes (per season and overall)
+3. Players hitting the most fours and sixes (per season and overall)
 
 Dashboard :
 <a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/Cricket%20Match%20Stats.twbx">view Dashboard 1</a>
+
 <a href= "https://github.com/ashwinipurohith15/Global-Cricket-League-Data-Analysis/blob/main/Player%20Statistics.twbx">view Dashboard 2</a>
 
 ## Process
 1.Data Cleaning:
 
-Handle missing or inconsistent data.
+- Handle missing or inconsistent data.
 
-Validate data formats, delivery modes, and other categorical attributes.
+- Validate data formats, delivery modes, and other categorical attributes.
 
 2.Data Aggregation:
 
-Aggregate the data by match, winner, and percentage of winning the match in each season for better insights.
+- Aggregate the data by match, winner, and percentage of winning the match in each season for better insights.
 
 3.Data Enrichment:
 
-Calculate additional metrics, such as total runs by each player, most match winners.
+- Calculate additional metrics, such as total runs by each player, most match winners.
 
 ## Dashboard
  ![Dashboard](https://github.com/user-attachments/assets/2d966bca-8df9-49ef-b488-8b06c13100bf)

@@ -1,4 +1,4 @@
-# Global Cricket League Data Analysis(Interactive Dashboard Creation Using MS Excel)
+# Global Cricket League Data Analysis(Interactive Dashboard Creation Using Tableau)
 
 ## Project Objective
 The Global Cricket League, or GCL, is a T20 cricket league, which started in 2008 and is conducted annually.GCI provides comprehensive data insights to sports magazines, newspapers, and broadcasters worldwide.The goal is to create an infographic for a sports magazine, leveraging visual representations directly from Tableau. Additionally, the magazine editorial team intends to use key statistics with various filters and customizations for interactivity. 
